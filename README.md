@@ -9,7 +9,7 @@ A clean and simple implementation of **Triple DES (3DES)** encryption algorithm 
 - ECB mode (Electronic Codebook) support
 - Toggle between padded or non-padded plaintext
 - Accepts ASCII or Hex formatted keys
-- ood for educational use, cryptographic learning, or integration in small projects
+- Good for educational use, cryptographic learning, or integration in small projects
 
 ## 📂 Components
 
